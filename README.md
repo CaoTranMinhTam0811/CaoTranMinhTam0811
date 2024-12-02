@@ -19,7 +19,7 @@ const CaoTranMinhTam0811 = {
 ### Connect with me:
 
 <p>
-    ## 🌐 Contact
+    🌐 Contact: 
     <a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
         CV Profile
     </a>
