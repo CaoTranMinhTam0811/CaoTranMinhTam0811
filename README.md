@@ -19,8 +19,8 @@ const CaoTranMinhTam0811 = {
 ### Connect with me:
 
 <p>
-	<a href="mailto:tamcaotranminh@gmail.com">
-		<img alt="Email" src="https://img.shields.io/badge/.-tamcaotranminh@gmail.com-orange?style=flat&logo=gmail">
+	<a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
+		CV Profile
 	</a>
 </p>
 
