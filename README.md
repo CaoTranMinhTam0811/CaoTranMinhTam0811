@@ -19,7 +19,7 @@ const CaoTranMinhTam0811 = {
 ### Connect with me:
 
 <p>
-    <img src="https://img.shields.io/badge/About%20Me-%20%F0%9F%91%8B-blue?style=flat&logo=linkedin" width="30px" alt="About Me">
+    ## 🌐 Contact
     <a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
         CV Profile
     </a>
