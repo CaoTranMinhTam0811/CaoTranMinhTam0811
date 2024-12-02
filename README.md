@@ -19,6 +19,7 @@ const CaoTranMinhTam0811 = {
 ### Connect with me:
 
 <p>
+	### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little more about me...
 	<a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
 		CV Profile
 	</a>
