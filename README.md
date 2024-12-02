@@ -19,11 +19,12 @@ const CaoTranMinhTam0811 = {
 ### Connect with me:
 
 <p>
-	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little more about me...
-	<a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
-		CV Profile
-	</a>
+    <img src="https://img.shields.io/badge/About%20Me-%20%F0%9F%91%8B-blue?style=flat&logo=linkedin" width="30px" alt="About Me">
+    <a href="http://tamdev.wuaze.com/lmpixels.com/demo/motion/motion_vcard_template_blue/index.html">
+        CV Profile
+    </a>
 </p>
+
 
 ### Open Source Work Stats:
 <a href="https://github.com/CaoTranMinhTam0811" target="_blank" rel="noopener noreferrer">
